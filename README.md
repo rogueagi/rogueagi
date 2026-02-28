@@ -16,6 +16,7 @@
 ## Current Projects
 
 * 🍽️ **[Game Changing Fuel](https://gamechangingfuel.com)** — Implementing AI across operations for a sports nutrition company serving NFL, NBA, MLB, NHL & NCAA teams
+* 🛡️ **[codeprobe](https://github.com/rogueagi/codeprobe)** — Open-source CLI that catches AI-generated code bugs before they ship. 10 built-in probes for hallucinated APIs, phantom packages, security anti-patterns & more
 * 📄 **[GitHub Profile README Framework](https://github.com/rogueagi/github-profile-readme-framework)** — Open-source template and guide for building developer profiles, modeled after top GitHub creators
 
 ## What I'm Doing
