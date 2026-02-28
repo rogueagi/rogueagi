@@ -18,6 +18,7 @@
 * 🍽️ **[Game Changing Fuel](https://gamechangingfuel.com)** — Implementing AI across operations for a sports nutrition company serving NFL, NBA, MLB, NHL & NCAA teams
 * 🔀 **[dotcontext](https://github.com/rogueagi/dotcontext)** — Open-source CLI that compiles one `.context/` directory into CLAUDE.md, .cursorrules, copilot-instructions.md, AGENTS.md, .windsurfrules & more. The `.editorconfig` of the AI coding era
 * 🛡️ **[codeprobe](https://github.com/rogueagi/codeprobe)** — Open-source CLI that catches AI-generated code bugs before they ship. 10 built-in probes for hallucinated APIs, phantom packages, security anti-patterns & more
+* 💰 **[tokenomics](https://github.com/rogueagi/tokenomics)** — Open-source CLI that tracks real-time token usage and spend across Claude Code, Cursor, Copilot & API usage. Live terminal tracker, web dashboard, budget alerts & optimization suggestions
 * 📄 **[GitHub Profile README Framework](https://github.com/rogueagi/github-profile-readme-framework)** — Open-source template and guide for building developer profiles, modeled after top GitHub creators
 
 ## What I'm Doing
@@ -41,7 +42,5 @@
 Random Facts
 
 * 🏈 Former sports marketing agent working with NFL and UFC athletes
-* 🕵️ Cyber threat intelligence analyst during COVID
 * 👻 Once flipped a haunted house
-* 🎵 Makes house music with AI
-* 🏠 Saw the real estate market turning on a flip and went all-in on AI
+* 🥋 Brazilian jiu-jitsu blue belt
