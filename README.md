@@ -15,6 +15,8 @@
 
 ## Current Projects
 
+*These open-source projects are ideas I'm shipping fast and testing in public. Built to explore what's possible, not to be perfect — expect rapid iteration.*
+
 * 🍽️ **[Game Changing Fuel](https://gamechangingfuel.com)** — Implementing AI across operations for a sports nutrition company serving NFL, NBA, MLB, NHL & NCAA teams
 * 🔀 **[dotcontext](https://github.com/rogueagi/dotcontext)** — Open-source CLI that compiles one `.context/` directory into CLAUDE.md, .cursorrules, copilot-instructions.md, AGENTS.md, .windsurfrules & more. The `.editorconfig` of the AI coding era
 * 🛡️ **[codeprobe](https://github.com/rogueagi/codeprobe)** — Open-source CLI that catches AI-generated code bugs before they ship. 10 built-in probes for hallucinated APIs, phantom packages, security anti-patterns & more
