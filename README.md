@@ -47,5 +47,4 @@
 Random Facts
 
 * 🏈 Former sports marketing agent working with NFL and UFC athletes
-* 👻 Once flipped a haunted house
 * 🥋 Brazilian jiu-jitsu blue belt
